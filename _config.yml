@@ -1,0 +1,28 @@
+name: mymediacoach
+favicon: null
+layout_spectrum: 0.11983472993597388
+typography_spectrum: 0.6905810800381005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7644985229708254
+  lightness: 0.8252035684417933
+  saturation: 0.007104458287358284
+  rhythmicContrast: 0.8831874378956854
+purpose: []
