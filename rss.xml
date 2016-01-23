@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mymediacoach]]></title>
+        <description><![CDATA[mymediacoach]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 17:58:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I've been a journalist for 30 years, over my career I've been surprised by the number of news makers who don't seem to have ever thought about their story, much less practiced telling it and refined it. The goal of My Media Coach is to help individuals, companies, or nonprofits do just that. If you wait until a reporter calls, or turns up at your door it's too late to make the most of the opportunity. As a journalist, I know what reporters are looking for and can coach you, and help you to develop a compelling story.</p>]]></description>
+            <link>undefined0de22ad0-9a81-4244-8011-f23a2775eb82/index.html</link>
+            <guid isPermaLink="false">0de22ad0-9a81-4244-8011-f23a2775eb82</guid>
+            <pubDate>Sat, 23 Jan 2016 17:58:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
